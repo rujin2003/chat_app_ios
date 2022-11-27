@@ -21,6 +21,8 @@ This is a chat app for ios devices which uses Firebase Firesotre stream buidlder
 
 Note this app only works for ios devices since the firebase is not configured for andriod devices
 
+## The ui insipiration of login and signup was taken from Afgprogrammer
+
 # Output
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2022-11-26 at 16 34 05](https://user-images.githubusercontent.com/71916379/204085240-abad603d-1a8a-41ae-9b2a-17b8ebd62243.png)
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2022-11-26 at 16 34 33](https://user-images.githubusercontent.com/71916379/204085277-10dfe0ef-7cc9-4b6b-87ac-5d2776c3d601.png)
